@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="play_trailer_button">Play trailer button</string>
+    <string name="rating">%d/10</string>
+    <string name="null_rating">-/-</string>
+    <string name="add_to_favourite">Add to favourite movies button</string>
+    <string name="favourite_movies">Favourite movies</string>
+</resources>
